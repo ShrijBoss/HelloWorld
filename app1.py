@@ -7,5 +7,5 @@ if time < 12:
     print("Good Morning")
 elif time == 12:
     print("it is noon")
-elif time > 6:
+elif time > 18:
     print("Good Afternoon")
